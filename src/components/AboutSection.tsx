@@ -16,7 +16,7 @@ export const AboutSection = () => {
             <a href="https://fosterspa.com">
             <img
               src="/images/foster-kitchen.png"
-              alt="Miele Logo"
+              alt="Foster Spa Logo"
               className="shadow-xl h-full w-full"
             />
             </a>
